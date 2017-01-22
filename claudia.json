@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "fb-bot-executor",
+    "name": "fb-bot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "5edg7m3je5",
+    "module": "bot"
+  }
+}
